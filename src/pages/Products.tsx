@@ -18,7 +18,7 @@ const productImages: Record<string, string> = {
   'gi-wire-hot-dip': IMAGES.giWireHotDip,
   'gi-wire-cold-dip': IMAGES.giWireColdDip,
   'ms-wire': IMAGES.msWire,
-  'hb-wire': IMAGES.steelCableReel,
+  'hb-wire': IMAGES.hbWire,
   'stay-wire': IMAGES.stayWire,
   'barbed-wire': IMAGES.barbedWire,
   'ms-nails': IMAGES.msNails,

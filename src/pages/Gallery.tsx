@@ -12,6 +12,7 @@ const galleryItems = [
   { image: IMAGES.wireRodCoil, title: 'Wire Rod in Coil', category: 'Products' },
   { image: IMAGES.stayWire, title: 'Stay Wire Coils', category: 'Products' },
   { image: IMAGES.msWire, title: 'Mild Steel (MS) Wire', category: 'Products' },
+  { image: IMAGES.hbWire, title: 'High-Tensile (HB) Wire Coils', category: 'Products' },
   { image: IMAGES.barbedWire, title: 'Barbed Wire', category: 'Products' },
   { image: IMAGES.msNails, title: 'MS Nails', category: 'Products' },
   { image: IMAGES.giWeldMesh, title: 'GI Weld Mesh Roll', category: 'Products' },
